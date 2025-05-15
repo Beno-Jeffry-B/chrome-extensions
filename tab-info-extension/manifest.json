@@ -1,0 +1,13 @@
+{
+
+    "name":"tab-info-Extension",
+    "version":"1.0",
+    "manifest_version":3,
+    "description":"displays current tab title and current tab URL",
+
+    "action":{
+        "default_popup": "popup.html"
+    },
+
+    "permissions":["tabs"]
+}
